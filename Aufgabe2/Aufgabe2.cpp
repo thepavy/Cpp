@@ -74,7 +74,7 @@ int main()
 			break;
 		default:
 			cout << "Ungueltige Eingabe" << endl;
-			break
+			break;
 		}
 	}
 	
